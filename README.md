@@ -1,3 +1,9 @@
+# This is the repository for data collection 
+https://github.com/ApurvBhusari/search_engine_data_collection
+
+# This is the repository for model training
+https://github.com/ApurvBhusari/search_engine_training_endpoint
+
 # Prediction Endpoint
 This Repository is a prediction endpoint for Reverse Image Search Engine. With the use of gitHub actions 
 I have configured CI-CD on the main branch. If any changes happens in Main branch it will deploy it on ec2 instance.
